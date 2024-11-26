@@ -249,3 +249,8 @@ while count > 0:
 print(f'Выпало орлов: {count_heads}')
 print(f'Выпало решек: {count_tails}') # 10
 
+
+
+# Задача 1: Поиск фильмов по названию
+
+
